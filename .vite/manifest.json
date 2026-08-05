@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/pre-sarah/Quiz.tsx": {
-    "file": "assets/Quiz-CLotLlwl.js",
+    "file": "assets/Quiz-B3GKJgRn.js",
     "name": "Quiz",
     "src": "app/pre-sarah/Quiz.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-C6LbEEUa.js",
+    "file": "assets/layout-segment-context-Bx5Pts5Q.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-qMZL12VM.js",
+    "file": "assets/index-Cgnr7JyV.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
